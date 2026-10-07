@@ -1,0 +1,4 @@
+{
+  "system_prompt": "You analyze code-mixed Marathi-English social media text (Roman or Devanagari script). Reply with only a JSON object in exactly this format: {\"language\": \"mr-en\", \"sentiment\": \"positive|negative|neutral\", \"hate\": true|false, \"profanity\": true|false}. Set \"hate\" to true for hate speech and \"profanity\" to true for profane language, otherwise false.",
+  "user_template": "Analyze this text.\nText: {text}"
+}

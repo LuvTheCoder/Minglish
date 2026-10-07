@@ -1,0 +1,47 @@
+tweet,hate,sentiment,profanity,source,split,key,labels
+"From nxt match onwards captains will say ""amche 10 tumche 10 aani gayle COMMON""",0,0,0,MeSent,train,fromnxtmatchonwardscaptainswillsayamche10tumche10aanigaylecommon,0_0_0
+@USER Bjp mukt Maharashtra hoiel lavkar,0,1,0,MeSent,train,bjpmuktmaharashtrahoiellavkar,1_0_0
+@USER Pudhchya varshi lavkar yaa!,0,1,0,MeSent,train,pudhchyavarshilavkaryaa,1_0_0
+"Ganpati bappa morya, pudchya varshi lavkar ya !!",0,1,0,MeSent,train,ganpatibappamoryapudchyavarshilavkarya,1_0_0
+Pudhchya varshi lavkar ya...,0,0,0,MeSent,train,pudhchyavarshilavkarya,0_0_0
+pudhchya varshi lavkar ya,0,1,0,MeSent,train,pudhchyavarshilavkarya,1_0_0
+Tu gelis nighun ashi dur kaymchi Ki Ata tula me kdch bghu shknar nahi Ka ashi sath sodun gelis tu mazi Ki Ata me...,0,-1,0,MeSent,train,tugelisnighunashidurkaymchikiatatulamekdchbghushknarnahikaashisathsodungelistumazikiatame,-1_0_0
+baki sarv anubhav aahet ;) fakt asa anubhav nahi ajun RT @USER - tumhala kadhich asa anubhav ala nahi??,0,-1,0,MeSent,train,bakisarvanubhavaahetfaktasaanubhavnahiajunrttumhalakadhichasaanubhavalanahi,-1_0_0
+@USER BJP mukt Maharashtra hoiel lavkar,0,0,0,MeSent,train,bjpmuktmaharashtrahoiellavkar,0_0_0
+"Ye re Ye re pausa, Tula deto paisa, Paisa zhala khota, Paus ala motha",0,1,0,MeSent,train,yereyerepausatuladetopaisapaisazhalakhotapausalamotha,1_0_0
+Balasaheb lavkar bare vha,0,1,0,MeSent,train,balasaheblavkarbarevha,1_0_0
+bala saheb lavkar bare vha,0,0,0,MeSent,train,balasaheblavkarbarevha,0_0_0
+"From nxt match onwards captains will say ""amche 10 tumche 10 aani gayle COMMON""",0,1,0,MeSent,train,fromnxtmatchonwardscaptainswillsayamche10tumche10aanigaylecommon,1_0_0
+ganpati bappa morya pudchya varshi lavkar ya!!!,0,0,0,MeSent,train,ganpatibappamoryapudchyavarshilavkarya,0_0_0
+Ganpati challe gavala...chain padena amhala...!! ('-'),0,0,0,MeSent,train,ganpatichallegavalachainpadenaamhala,0_0_0
+Ganpati challe gavala chain pade na amhala,0,1,0,MeSent,train,ganpatichallegavalachainpadenaamhala,1_0_0
+@USER Aamhala nyay milala ch pahije,0,0,0,MeSent,train,aamhalanyaymilalachpahije,0_0_0
+"@USER ""Ye re Ye re pausa, Tula deto paisa, Paisa zhala khota, Paus ala motha""",0,0,0,MeSent,train,yereyerepausatuladetopaisapaisazhalakhotapausalamotha,0_0_0
+Tu gelis nighun ashi dur kaymchi Ki Ata tula me kdch bghu shknar nahi Ka ashi sath sodun gelis tu mazi Ki Ata me...,0,0,0,MeSent,train,tugelisnighunashidurkaymchikiatatulamekdchbghushknarnahikaashisathsodungelistumazikiatame,0_0_0
+"""Yere yere pausa, Tula deto paisa, Paisa zhala khota, Paus ala motha!!! :) :)",0,0,0,MeSent,train,yereyerepausatuladetopaisapaisazhalakhotapausalamotha,0_0_0
+baki sarv anubhav aahet ;) fakt asa anubhav nahi ajun RT @USER - tumhala kadhich asa anubhav ala nahi??,0,0,0,MeSent,train,bakisarvanubhavaahetfaktasaanubhavnahiajunrttumhalakadhichasaanubhavalanahi,0_0_0
+@USER kadhich nasta tumchya playlist madhye,0,-1,0,MeSent,train,kadhichnastatumchyaplaylistmadhye,-1_0_0
+pudhchya varshi lavkar ya,0,1,0,MeSent,val,pudhchyavarshilavkarya,1_0_0
+Fiddling with my blog post: Aahes tu mhnun... ( ),0,1,0,MeSent,val,fiddlingwithmyblogpostaahestumhnun,1_0_0
+Pudhchya varshi lavkar ya,0,1,0,MeSent,val,pudhchyavarshilavkarya,1_0_0
+"From nxt match onwards captains will say ""amche 10 tumche 10 aani gayle COMMON""",0,0,0,MeSent,val,fromnxtmatchonwardscaptainswillsayamche10tumche10aanigaylecommon,0_0_0
+Pudhchya varshi lavkar yaa,0,0,0,MeSent,val,pudhchyavarshilavkaryaa,0_0_0
+"From nxt match onwards captains will say ""amche 10 tumche 10 aani gayle COMMON"" @USER",0,0,0,MeSent,val,fromnxtmatchonwardscaptainswillsayamche10tumche10aanigaylecommon,0_0_0
+Fiddling with my blog post: Aahes tu mhnun... ( ),0,0,0,MeSent,val,fiddlingwithmyblogpostaahestumhnun,0_0_0
+"From nxt match onwards captains will say ""amche 10 tumche 10 aani gayle COMMON""",0,0,0,MeSent,val,fromnxtmatchonwardscaptainswillsayamche10tumche10aanigaylecommon,0_0_0
+@USER BJP mukt Maharashtra hoiel lavkar,1,-1,0,MeSent,test,bjpmuktmaharashtrahoiellavkar,-1_1_0
+"@USER oh! Zordar jhalay vatte tumcha! I ws plannin for 2 days dis tym,bt hesitated aftr hearin is comin. RIP LiveWire",0,-1,0,MeSent,test,ohzordarjhalayvattetumchaiwsplanninfor2daysdistymbthesitatedaftrheariniscominriplivewire,-1_0_0
+Fiddling with my blog post: Aahes tu mhnun... ( ),0,0,0,MeSent,test,fiddlingwithmyblogpostaahestumhnun,0_0_0
+@USER kadhich nasta tumchya playlist madhye,0,0,0,MeSent,test,kadhichnastatumchyaplaylistmadhye,0_0_0
+@USER BJP mukt Maharashtra hoiel lavkar,1,-1,0,MeHate,train,bjpmuktmaharashtrahoiellavkar,-1_1_0
+"Ye re Ye re pausa, Tula deto paisa, Paisa zhala khota, Paus ala motha",0,1,0,MeHate,train,yereyerepausatuladetopaisapaisazhalakhotapausalamotha,1_0_0
+Balasaheb lavkar bare vha,0,1,0,MeHate,train,balasaheblavkarbarevha,1_0_0
+@USER kadhich nasta tumchya playlist madhye,0,0,0,MeHate,train,kadhichnastatumchyaplaylistmadhye,0_0_0
+@USER BJP mukt Maharashtra hoiel lavkar,1,-1,0,MeHate,train,bjpmuktmaharashtrahoiellavkar,-1_1_0
+"@USER oh! Zordar jhalay vatte tumcha! I ws plannin for 2 days dis tym,bt hesitated aftr hearin is comin. RIP LiveWire",1,-1,1,MeHate,train,ohzordarjhalayvattetumchaiwsplanninfor2daysdistymbthesitatedaftrheariniscominriplivewire,-1_1_1
+Aamhala nyay milalach pahije.,0,-1,0,MeHate,val,aamhalanyaymilalachpahije,-1_0_0
+"@USER oh! Zordar jhalay vatte tumcha! I ws plannin for 2 days dis tym,bt hesitated aftr hearin is comin. RIP LiveWire",0,-1,0,MeHate,val,ohzordarjhalayvattetumchaiwsplanninfor2daysdistymbthesitatedaftrheariniscominriplivewire,-1_0_0
+Tu gelis nighun ashi dur kaymchi Ki Ata tula me kdch bghu shknar nahi Ka ashi sath sodun gelis tu mazi Ki Ata me...,0,-1,0,MeHate,val,tugelisnighunashidurkaymchikiatatulamekdchbghushknarnahikaashisathsodungelistumazikiatame,-1_0_0
+@USER BJP mukt Maharashtra hoiel lavkar,0,0,0,MeHate,test,bjpmuktmaharashtrahoiellavkar,0_0_0
+@USER Pudhchya varshi lavkar yaa!,0,1,0,MeHate,test,pudhchyavarshilavkaryaa,1_0_0
+@USER Bjp mukt Maharashtra hoiel lavkar,0,1,0,MeHate,test,bjpmuktmaharashtrahoiellavkar,1_0_0
